@@ -7,6 +7,10 @@ This is a simple excel application used to store data in a grid format.
 a. Cut
 b. Copy
 c. Paste
+
+a. Cut
+b. Copy
+c. Paste
 d. Font-Family
 e. Font-Size
 f. Bold
