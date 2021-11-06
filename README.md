@@ -3,7 +3,7 @@ This is a simple excel application used to store data in a grid format.
 #This application include some important and basic features like
 1. Good and Well Defined UI
 2. 2-Way Binding of Toolbar with each and every cell seperately.
-3. Basic Toolbar Items/Features like
+3. Basic Toolbar Items/Features like    
 a. Cut    
 b. Copy   
 c. Paste    
